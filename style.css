@@ -7,7 +7,11 @@
     padding: 30px;
 }
 
-h1{
+.tituloprincipal{
+    padding-left: 20px;
+}
+
+.titulocentralizado{
     text-align: center;
 }
 
@@ -30,10 +34,6 @@ em strong{
 .beneficios{
     background: #FFFFFF;
     padding: 20px;
-}
-
-h2{
-    text-align: center;
 }
 
 ul{
