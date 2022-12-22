@@ -7,7 +7,7 @@
 
 Desenvolvimento do site de uma barbearia elaborado ao longo do curso de [HTML e CSS parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), realizado na plataforma [Alura](https://www.alura.com.br/) e orientado pelo instrutor [Pedro Marins](https://www.linkedin.com/in/pedromarins/). O objetivo do projeto foi consolidar os conhecimentos iniciais de HTML5 e CSS3.
 
-### :ledger: **Conhecimentos adiquiridos** 
+### :ledger: **Conhecimentos adquiridos** 
 ---
 
 Durante seu desenvolvimento foram aplicados alguns conhecimentos, entre eles:
