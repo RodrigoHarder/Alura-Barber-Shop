@@ -9,8 +9,30 @@ form{
 
 form label, form legend{
     display:block;
-    font-size: 20px;
-    margin: 0 0 10px;
+    font-size: 18px;
+    margin: 10px 0 10px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.espacamento{
+    margin:10px 0 10px 0;
+}
+
+.texto{
+    font-size: 16px;
+}
+
+legend{
+    font-weight: bold;
+}
+
+select{
+    font-size: 16px;
+    width: 15%;
+    padding:5px 0;
 }
 
 .input-padrao{
@@ -22,14 +44,16 @@ form label, form legend{
 
 .checkbox{
     margin:20px 0;
+    font-weight: bold;
 }
 
 .enviar{
     width:30%;
     padding: 15px 0;
-    background: #fed35b;
+    background: #000000;
     font-weight: bold;
     font-size: 18px;
+    color:#FFFFFF;
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -37,7 +61,5 @@ form label, form legend{
 
 .enviar:hover{
     transform: scale(1.05);
-    background:#fcc222
+    background:#fcc222;
 }
-
-
