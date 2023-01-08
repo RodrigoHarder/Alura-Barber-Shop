@@ -45,3 +45,28 @@ strong{
     width: 35%;
     margin-bottom: 20px;
 }
+
+.funcionamento{
+    margin-top: 10px;
+}
+
+.texto-tabela{
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+table{
+    margin: 20px 0 20px 550px;
+}
+
+thead{
+    background:#fed35b;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+td, th{
+    border:1px solid #000000;
+    padding: 8px 15px;
+}
