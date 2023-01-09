@@ -11,15 +11,15 @@
 }
 
 .sobre-a-barbearia{
-    width:340px;
+    width:320px;
     margin: 0 20px 20px 0;
     padding: 0 0 0 200px;
     float: left;
 }
 
 .principal p{
-    text-align: justify;
-    font-size: 1em;
+    text-align: left;
+    font-size: 1.05em;
     margin:1em 12em 1em 5em;
 }
 .principal strong{
@@ -30,38 +30,15 @@
     font-style: italic;
 }
 
-.principal ul{
-    font-style: italic;
-}
-
-.mapa{
-    padding:3em 0;
-}
-
 .mapa p{
     text-align: center;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
-iframe{
-padding-left:220px;
-}
+.mapa iframe{
+    padding-left:220px;
+    }
 
-.funcionamento{
-    margin-top: 10px;
-}
-
-table{
-    margin: 20px 0 20px 550px;
-}
-
-thead{
-    background:#fed35b;
-    font-weight: bold;
-    font-size: 20px;
-}
-
-td, th{
-    border:1px solid #000000;
-    padding: 8px 15px;
-}
+    .video{
+        margin: 2em 0 2em 26em
+    }
