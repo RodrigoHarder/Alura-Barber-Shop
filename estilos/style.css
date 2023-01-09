@@ -5,7 +5,7 @@
 .titulo-principal{
     text-align: center;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.7em;
     margin:1em 0 1em;
     clear: left;
 }
@@ -32,6 +32,19 @@
 
 .principal ul{
     font-style: italic;
+}
+
+.mapa{
+    padding:3em 0;
+}
+
+.mapa p{
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+iframe{
+padding-left:220px;
 }
 
 .funcionamento{
