@@ -1,0 +1,54 @@
+.banner{
+    width: 100%;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2em;
+    margin:1em 0 1em;
+    clear: left;
+}
+
+.sobre-a-barbearia{
+    width:340px;
+    margin: 0 20px 20px 0;
+    padding: 0 0 0 200px;
+    float: left;
+}
+
+.principal p{
+    text-align: justify;
+    font-size: 1em;
+    margin:1em 12em 1em 5em;
+}
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em{
+    font-style: italic;
+}
+
+.principal ul{
+    font-style: italic;
+}
+
+.funcionamento{
+    margin-top: 10px;
+}
+
+table{
+    margin: 20px 0 20px 550px;
+}
+
+thead{
+    background:#fed35b;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+td, th{
+    border:1px solid #000000;
+    padding: 8px 15px;
+}
