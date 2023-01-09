@@ -1,59 +1,41 @@
-#banner{
+.banner{
     width: 100%;
 }
 
-.tituloprincipal{
-    padding-left: 20px;
-}
-
-.titulocentralizado{
+.titulo-principal{
     text-align: center;
     font-weight: bold;
-    font-size: 26px;
-    margin:40px 0 20px 50px;
+    font-size: 2em;
+    margin:1em 0 1em;
+    clear: left;
 }
 
-.paragrafo{
+.sobre-a-barbearia{
+    width:340px;
+    margin: 0 20px 20px 0;
+    padding: 0 0 0 200px;
+    float: left;
+}
+
+.principal p{
     text-align: justify;
-    font-size: 20px;
-    margin:0 300px 0 300px;
+    font-size: 1em;
+    margin:1em 12em 1em 5em;
 }
-
-#missao{
-    text-align: justify;
-    font-size:20px;
-    margin:10px 300px 0 300px;
-}
-
-strong{
+.principal strong{
     font-weight: bold;
 }
 
-.lista{
-    display: inline-block;
-    vertical-align: top;
-    text-align: justify;
-    font-size: 20px;
-    margin:70px 100px 0 300px;
+.principal em{
+    font-style: italic;
 }
 
-.itens{
-    margin-bottom: 30px;
-}
-
-.imagembeneficios{
-    width: 35%;
-    margin-bottom: 20px;
+.principal ul{
+    font-style: italic;
 }
 
 .funcionamento{
     margin-top: 10px;
-}
-
-.texto-tabela{
-    text-align: center;
-    font-size: 26px;
-    font-weight: bold;
 }
 
 table{
