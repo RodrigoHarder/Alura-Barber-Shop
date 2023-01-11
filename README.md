@@ -3,7 +3,7 @@
 <div>
   <p align="center">
     <img alt="Licença do projeto com os dizeres: MIT" src="https://img.shields.io/github/license/RodrigoHarder/Barbearia-Alura.svg">
-    <img alt="Status do projeto com os dizeres: Em andamento" src="https://img.shields.io/static/v1?label=Status&message=Concluído &color=green">
+    <img alt="Status do projeto com os dizeres: Em andamento" src="https://img.shields.io/static/v1?label=Status&message=Em desenvolvimento &color=orange">
   </p>
 </div>
 
