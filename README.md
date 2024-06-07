@@ -22,21 +22,6 @@ Durante o desenvolvimento do site da Barbearia Alura foram explorados alguns con
 - Processo do desenvolvimento de uma página na Web;
 - Exploração de interação simples com o usuário por meio do uso da linguagem CSS;
 
-## **Funcionalidades**
-
-<p>A aplicação apresenta, até o momento, duas páginas.</p>
-<p>A <strong>primeira página</strong> é a Home e apresenta uma tela com o cabeçalho contendo o nome da barbearia, as informações princiapis de localização, fundação, missão entre outras, imagens e benefícios.</p>
-
- <p align="center">
-  <img src="imagens/video_barbearia.gif" alt= "Gif animado do site da barbearia alura mostrando inicialmente Barbearia Alura ao lado esquerdo superior e uma imagem de uma barbearia ocupando o restante da tela. A medida que o vídeo vai descendo é mostrado um retângulo cinza contendo um texto sobre a barbearia e abaixo os benefícios colocados no lado esquerdo da tela e uma imagem de uma pessoa se barbeando no lado direito da tela." />
-</p>
-
-<p>A <strong>segunda página</strong> explora os serviços oferecidos e apresenta um cabeçalho com o logotipo da barbearia, links de outras páginas que compõem o site, informações de preço, ilustrações e um rodapé com informações de copyright. Tanto nos links quanto nos serviços oferecidos é possível ver uma interação simples com o usuário ao passar o mouse por cima destes elementos, mostrando um destaque para as informações e links e o refinando a apresentação. <p/>
-
- <p align="center">
-  <img src="imagens/video_produtos.gif" alt= "Gif da página de produtos da barbearia alura mostrando de cima para baixo uma caixa cinza contendo no lado direito o logotipo da barbearia e do lado esquerdo links para as páginas de home, produtos e contato. Abaixo é possível ver três opções de atendimentos com bordas pretas arredondadas: cabelo, barba e cabelo + barba; contendo preços, ilustrações e informações sobre os serviços em um fundo branco. Ao final da página é possível ver uma imagem de fundo preto com o logotipo da barbearia branco centralizado e abaixo a frase de diretiros autorais. Ao passar o mouse pelas opções de serviços e pelos links no cabeçalho da página é possível ver uma interação simples onde os links mudam para uma cor azul e ganham sublinhado no texto e os serviços aumentam a cor do título e a borda muda para uma cor azulada" />
-</p>
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
